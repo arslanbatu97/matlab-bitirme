@@ -9,3 +9,6 @@ while hasFrame(v)
     file = sprintf("a_frame_%d.png",i);
     imwrite(binary_frame);
     i = i+1
+
+
+    
